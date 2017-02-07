@@ -1,0 +1,3 @@
+this is the sample 2 original
+now add the next line to see the git status
+i will test the cache diff
