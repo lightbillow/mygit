@@ -1,2 +1,3 @@
 this is the sample 1 original
 now add the next line -- see get status
+test the delete file sample 1
