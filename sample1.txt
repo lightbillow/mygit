@@ -3,5 +3,5 @@ now add the next line -- see get status
 test the delete file sample 1
 test the diff this is in the index
 test the diff this is in the hardware
-##my teacher is a good teacher and now i am happy programing
-now i am trying the merge test
+now i am trying the merge test and my teacher
+is a good teacher and now i am happy programing
