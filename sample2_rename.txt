@@ -1,3 +1,4 @@
 this is the sample 2 original
 now add the next line to see the git status
 i will test the cache diff
+my boss is a good boss and now i am happy programing
